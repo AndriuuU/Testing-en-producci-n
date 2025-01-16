@@ -113,6 +113,8 @@ tiene una buena accesibilidad pero tiene dos pequeños fallos faciles de solucio
 
 ![alt text](img/image-22.png)
 
+El seo es donde da mas problemas por no tener metadescripcion, tambien no es valido el robots.txt
+
 ![alt text](img/image-23.png)
 
 ## Ghost Inspector
