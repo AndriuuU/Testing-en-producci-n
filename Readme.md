@@ -109,3 +109,12 @@ Tiene una gran carga de elementos y tarda en cargar completanente.
 
 ![alt text](img/image-21.png)
 tiene una buena accesibilidad pero tiene dos pequeños fallos faciles de solucionar.
+
+
+![alt text](img/image-22.png)
+
+![alt text](img/image-23.png)
+
+## Ghost Inspector
+No me deja hacer el video de la página
+![alt text](img/image-24.png)
